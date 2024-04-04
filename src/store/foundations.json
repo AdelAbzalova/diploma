@@ -1,0 +1,51 @@
+[
+    {
+        "id":1, 
+        "name":"Рэй", 
+        "img":"ray.png", 
+        "src":"https://rayfund.ru"
+    },
+    {
+        "id":2, 
+        "name":"Ника", 
+        "img":"nika.jpeg", 
+        "src":"https://fond-nika.ru"
+    },
+    {
+        "id":3, 
+        "name":"Брошенный ангел", 
+        "img":"angel.png", 
+        "src":"https://bfba.ru"
+    },
+    {
+        "id":4, 
+        "name":"Вирта", 
+        "img":"virta.png", 
+        "src":"https://www.tvoya-sobaka.ru"
+    },
+    {
+        "id":5, 
+        "name":"Рука помощи", 
+        "img":"help_hand.png", 
+        "src":"https://pitomec58.com"
+    },
+    {
+        "id":6, 
+        "name":"Собаки, которые любят", 
+        "img":"lovingDogs.jpeg", 
+        "src":"https://www.fund4dogs.ru"
+    },
+    {
+        "id":7, 
+        "name":"Подарок судьбы", 
+        "img":"destiny.png", 
+        "src":"https://vsemposobake.ru"
+    }, 
+    {
+        "id":8, 
+        "name":"Котодетки", 
+        "img":"kids.jpeg", 
+        "src":"https://kotodetki.ru"
+    }
+]
+
