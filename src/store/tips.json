@@ -1,0 +1,32 @@
+[
+    {
+        "id":1, 
+        "title":"Витамины для собак", 
+        "img":"tips-1.jpeg", 
+        "link":"https://avzvet.ru/advice/sobaki-soderzhanie-i-uhod/vitaminy-dlya-sobak/"
+    }, 
+    {
+        "id":2, 
+        "title":"Как правильно купать кошку", 
+        "img":"tips-2.jpeg", 
+        "link":"https://avzvet.ru/advice/koshki-soderzhanie-i-uhod/kak-pravilno-kupat-koshku/"
+    },
+    {
+        "id":3, 
+        "title":"Адаптация котенка в новом доме", 
+        "img":"tips-3.jpeg", 
+        "link":"https://avzvet.ru/advice/koshki-soderzhanie-i-uhod/adaptaciya-kotenka-v-novom-dome/"
+    }, 
+    {
+        "id":4, 
+        "title":"Десять советов владельцам птиц", 
+        "img":"tips-4.jpeg", 
+        "link":"https://avzvet.ru/advice/pticy-soderzhanie-i-uhod/desyat-sovetov-vladelcam-ptic-s-chego-nachat/"
+    }, 
+    {
+        "id":5, 
+        "title":"Срочно к ветеринару: признаки, которые нельзя игнорировать", 
+        "img":"tips-5.jpeg", 
+        "link":"https://avzvet.ru/advice/soderzhanie-i-uhod/srochno-k-veterinaru/"
+    }
+]

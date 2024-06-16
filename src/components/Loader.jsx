@@ -1,5 +1,4 @@
-import { Spin } from 'antd';
-
+import { Spin } from "antd";
 const Loader = () => (
   <Spin tip="Loading" size="large" style={{ marginTop: "60px" }}>
     <div className="content" />

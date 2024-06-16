@@ -1,4 +1,3 @@
-
 import { useSelector } from "react-redux";
 import PetCard from "./Card/PetCard";
 function PetCards(){

@@ -4,126 +4,188 @@
       "type": "Кошка",
       "name":"Алиса",
       "avatar": "cat1.jpeg",
-      "sex": "Девочка",
+      "gender": "Девочка",
       "age":"2 года",
-      "city":"Москва"
+      "city":"Москва", 
+      "species":"cat", 
+      "size":"Средний", 
+      "wool":"Короткая", 
+      "color":"Коричневый", 
+      "sterilization":"Да", 
+      "antiParasite":"Да", 
+      "vaccination":"Да", 
+      "temperament":"Активный", 
+      "catRel":"Ладит", 
+      "dogRel":"Равнодушен"
+
     },
+    
 
       {
         "id": 2,
         "type": "Собака",
         "name":"Хвостик",
         "avatar": "dog1.jpeg",
-        "sex": "Мальчик",
+        "gender": "Мальчик",
         "age":"5 месяцев",
-        "city":"Уфа"
+        "city":"Уфа", 
+        "species":"dog"
       },
       {
         "id": 3,
-        "type": "Кошка",
-        "name":"Пушок",
-        "avatar": "cat2.jpeg",
-        "sex": "Мальчик",
-        "age":"3 года",
-        "city":"Санкт-Петербург"
-      },
+        "type": "Попугай",
+        "name":"Фиона",
+        "avatar": "parrot1.jpg",
+        "gender": "Девочка",
+        "age":"1 год",
+        "city":"Новосибирск", 
+        "species":"other"
+      }, 
+
       {
         "id": 4,
         "type": "Собака",
         "name":"Люси",
         "avatar": "dog2.jpg",
-        "sex": "Девочка",
+        "gender": "Девочка",
         "age":"1 год",
-        "city":"Тверь"
+        "city":"Тверь", 
+        "species":"dog"
       }, 
       {
         "id": 5,
         "type": "Собака",
         "name":"Радость",
         "avatar": "dog3.jpg",
-        "sex": "Девочка",
+        "gender": "Девочка",
         "age":"5 лет",
-        "city":"Владивосток"
+        "city":"Владивосток", 
+        "species":"dog"
       }, 
       {
         "id": 6,
-        "type": "Кошка",
-        "name":"Персей",
-        "avatar": "cat3.jpg",
-        "sex": "Мальчик",
-        "age":"2 года",
-        "city":"Красногорск"
+        "type": "Кролик",
+        "name":"Бет",
+        "avatar": "rabbit1.jpg",
+        "gender": "Девочка",
+        "age":"10 месяцев",
+        "city":"Орел", 
+        "species":"other"
       }, 
+
       {
         "id": 7,
         "type": "Собака",
         "name":"Клиф",
         "avatar": "dog4.jpg",
-        "sex": "Мальчик",
+        "gender": "Мальчик",
         "age":"7 лет",
-        "city":"Красногорск"
+        "city":"Красногорск", 
+        "species":"dog"
       }, 
       {
         "id": 8,
         "type": "Кошка",
         "name":"Ласка",
         "avatar": "cat4.jpg",
-        "sex": "Девочка",
+        "gender": "Девочка",
         "age":"6 лет",
-        "city":"Череповец"
-      }, 
-      {
-        "id": 8,
-        "type": "Собака",
-        "name":"Динго",
-        "avatar": "dog5.jpg",
-        "sex": "Мальчик",
-        "age":"4 года",
-        "city":"Краснодар"
+        "city":"Череповец", 
+        "species":"cat"
       }, 
       {
         "id": 9,
         "type": "Собака",
-        "name":"Метель",
-        "avatar": "dog6.jpg",
-        "sex": "Девочка",
-        "age":"1 год",
-        "city":"Выборг"
+        "name":"Динго",
+        "avatar": "dog5.jpg",
+        "gender": "Мальчик",
+        "age":"4 года",
+        "city":"Краснодар", 
+        "species":"dog"
       }, 
       {
         "id": 10,
-        "type": "Кошка",
-        "name":"Лайда",
-        "avatar": "cat5.jpg",
-        "sex": "Девочка",
-        "age":"8 месяцев",
-        "city":"Каспийск"
+        "type": "Собака",
+        "name":"Метель",
+        "avatar": "dog6.jpg",
+        "gender": "Девочка",
+        "age":"1 год",
+        "city":"Выборг", 
+        "species":"dog"
       }, 
       {
         "id": 11,
         "type": "Кошка",
-        "name":"Ютта",
-        "avatar": "cat6.jpg",
-        "sex": "Девочка",
-        "age":"4 года",
-        "city":"Троицк"
+        "name":"Лайда",
+        "avatar": "cat5.jpg",
+        "gender": "Девочка",
+        "age":"8 месяцев",
+        "city":"Каспийск", 
+        "species":"cat"
       }, 
       {
         "id": 12,
+        "type": "Кошка",
+        "name":"Ютта",
+        "avatar": "cat6.jpg",
+        "gender": "Девочка",
+        "age":"4 года",
+        "city":"Троицк", 
+        "species":"cat"
+      }, 
+      {
+        "id": 13,
         "type": "Собака",
         "name":"Алтай",
         "avatar": "dog7.jpg",
-        "sex": "Мальчик",
+        "gender": "Мальчик",
         "age":"2 года",
-        "city":"Тольятти"
-      },       {
-        "id": 13,
+        "city":"Тольятти", 
+        "species":"dog"
+      },     
+        {
+        "id": 14,
         "type": "Кошка",
         "name":"Том",
         "avatar": "cat7.jpg",
-        "sex": "Мальчик",
+        "gender": "Мальчик",
         "age":"8 лет",
-        "city":"Сочи"
+        "city":"Сочи", 
+        "species":"cat"
+      },
+      {
+        "id": 15,
+        "type": "Кошка",
+        "name":"Персей",
+        "avatar": "cat3.jpg",
+        "gender": "Мальчик",
+        "age":"2 года",
+        "city":"Красногорск", 
+        "species":"cat"
+      }, 
+
+
+      {
+        "id": 16,
+        "type": "Кошка",
+        "name":"Пушок",
+        "avatar": "cat2.jpeg",
+        "gender": "Мальчик",
+        "age":"3 года",
+        "city":"Санкт-Петербург", 
+        "species":"cat"
+      },
+
+      {
+        "id": 17,
+        "type": "Кошка",
+        "name":"Харисон",
+        "avatar": "cat8.jpg",
+        "gender": "Мальчик",
+        "age":"9 лет",
+        "city":"Псков", 
+        "species":"cat"
       }
+
   ]
   

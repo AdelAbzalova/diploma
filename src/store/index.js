@@ -1,15 +1,13 @@
 import { configureStore } from "@reduxjs/toolkit";
 import foundationsSlice from "./foundationsSlice";
-import petsSlice from "./petsSlice";
+import { petsReducer } from "./petsSlice";
+import { usersReducer } from "./usersSlice";
 
 const store = configureStore({
   reducer: {
-    pets: petsSlice,
+    pets: petsReducer,
     foundations:foundationsSlice,
+    users:usersReducer,
   },
 });
-
 export default store;
-
-// export type RootState=ReturnType<typeof store.getState>;
-// export type AppDispatch = typeof store.dispatch;

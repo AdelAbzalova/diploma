@@ -1,0 +1,48 @@
+[
+    {
+        "id":1, 
+        "name":"Дарья", 
+        "age":25, 
+        "childAmount":2, 
+        "city":"Иркутск", 
+        "type":"Забрать", 
+        "gender":"Женский", 
+        "wanted":"Кошка", 
+        "avatar":"purple", 
+        "member":4, 
+        "house":"Квартира", 
+        "houseRelation":"Съём", 
+        "other":""
+
+    },
+    {
+        "id":2, 
+        "name":"Михаил", 
+        "age":30, 
+        "childAmount":0, 
+        "city":"Москва", 
+        "type":"Передержка",
+        "gender":"Мужской",
+        "wanted":"Собака", 
+        "avatar":"green", 
+        "member":2, 
+        "house":"Частный дом", 
+        "houseRelation":"Собственность", 
+        "other":""
+    }, 
+    {
+        "id":3, 
+        "name":"Анна", 
+        "age":32, 
+        "childAmount":1, 
+        "city":"Новосибирск", 
+        "type":"Передержка",
+        "gender":"Женский",
+        "wanted":"Любое", 
+        "avatar":"grey", 
+        "member":3, 
+        "house":"Квартира", 
+        "houseRelation":"Собственность", 
+        "other":""
+    }
+]
