@@ -2,9 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Ссылка на netlify:
+
+https://eclectic-frangipane-ba7141.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
